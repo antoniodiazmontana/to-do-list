@@ -1,6 +1,3 @@
-# Translate the README content to English
-
-readme_content_english = """
 # To-Do List Application 📝
 
 This is a simple To-Do List project built with Vue.js. The application allows users to add tasks, mark them as completed, and remove them. Additionally, tasks are saved in local storage (`localStorage`), so the list persists even after the user reloads the page or closes the browser.
